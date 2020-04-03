@@ -1,0 +1,4 @@
+name = "nucleus"
+uuid = "72fcc310-ad5c-4891-82f7-a30f3bb7070c"
+authors = ["Jelmar Gerritsen <jelmargerritsen@gmail.com>"]
+version = "0.1.0"
